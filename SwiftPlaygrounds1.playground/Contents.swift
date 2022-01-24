@@ -20,3 +20,12 @@ print(appState)
 var numberOne = 5
 var numberTwo = 7
 var comparison = numberOne < numberTwo
+
+var myFourthVariable: String
+myFourthVariable = "2"
+
+var myFifthVariable = "2"
+
+var mySixthVariable = "2" == "2"
+print(mySixthVariable)
+
